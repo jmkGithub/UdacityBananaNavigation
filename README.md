@@ -15,3 +15,4 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 This Environment stops training and is considered solved with a 100 episode average of +14.
 
 Keep Banana_Windows_x86_64/Banana.exe in the same folder as the project being run.
+The Files Model.py, DQBlizzard, and BananaSolution all contain code derived from Udacity projects, including DQ learning.
